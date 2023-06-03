@@ -1,0 +1,36 @@
+// This is a single-line comment
+
+// Integer literal
+let myAge = 25
+
+// Floating-point literal
+let pi = 3.14
+
+// String literal
+let greeting = "Hello, world!"
+
+// Boolean literal
+let isSunny = true
+
+// Array literal
+let numbers = [1, 2, 3, 4, 5]
+
+// Dictionary literal
+let fruits = ["apple": "red", "banana": "yellow", "orange": "orange"]
+
+// Nil literal
+let optionalValue: Int? = nil
+
+// Character literal
+let firstLetter: Character = "A"
+
+// Interpolated string literal
+let name = "John"
+let message = "Welcome, \(name)!"
+
+// Boolean literal with conditions
+if isSunny {
+    print("It's a sunny day!")
+} else {
+    print("It's not sunny.")
+}
